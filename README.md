@@ -1,4 +1,4 @@
-# Space Cream Responsivo
+# Space Cream Responsivo com foco na versão Desktop
 Curso Explorer - Rocketseat
 
 **Mobile first**
